@@ -1,4 +1,4 @@
 # tutorials
 Contains notes and sample code used to learn new technologies.
 
-This version of the readme exists in the readme-edits branch.
+If I learn all new technologies, this repository will eventually become infinite.
